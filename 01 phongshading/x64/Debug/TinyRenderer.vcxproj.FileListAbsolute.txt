@@ -1,0 +1,2 @@
+C:\Users\22625\Desktop\TinyRenderer\x64\Debug\TinyRenderer.exe
+C:\Users\22625\Desktop\TinyRenderer\06 phongshading\x64\Debug\TinyRenderer.exe

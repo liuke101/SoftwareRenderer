@@ -1,0 +1,4 @@
+C:\Users\22625\Desktop\TinyRenderer\x64\Debug\TinyRenderer.exe
+C:\Users\22625\Desktop\TinyRenderer\07 Shadowmap\x64\Debug\TinyRenderer.exe
+C:\Users\22625\Desktop\TinyRenderer\08 SSAO\x64\Debug\TinyRenderer.exe
+C:\Users\22625\Desktop\TinyRenderer\03 Shadowmapping+AO\x64\Debug\TinyRenderer.exe
