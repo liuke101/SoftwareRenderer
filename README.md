@@ -1,14 +1,7 @@
 # SoftwareRenderer
 
-一个简易的软光栅。
+一个简易的软件光栅渲染器。
 
-
-
-感谢：[ssloy (Dmitry V. Sokolov) (github.com)](https://github.com/ssloy)
-
-项目学习来源：[ssloy/tinyrenderer: A brief computer graphics / rendering course (github.com)](https://github.com/ssloy/tinyrenderer)
-
-感谢翻译文档：[TinyRenderer-CN/translation at main · CregskiN/TinyRenderer-CN (github.com)](https://github.com/CregskiN/TinyRenderer-CN/tree/main/translation)
 
 
 
