@@ -13,8 +13,11 @@
 
 ![D2R_EarlyAccessBetaOpenBeta_O_O_Xbox_1920x1080_v02](assets/D2R_EarlyAccessBetaOpenBeta_O_O_Xbox_1920x1080_v02.jpg)
 
+Blinn-Phong着色：
 ![basecolor](assets/basecolor.png)
 
+体素化：
 ![pixel](assets/pixel.png)
 
+SSAO：
 ![SSAO](assets/SSAO.png)
